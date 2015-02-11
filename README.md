@@ -1,5 +1,5 @@
 # SVG GEL Icon Set
+An intermediate repository containing Production-ready SVGs from our Global Experience Language icon set.
 
-A temporary repository used to store Production-ready SVGs from our Global Experience Language icon set.
-
-More information to follow.
+## SVG Export Guide
+Stay tuned.
