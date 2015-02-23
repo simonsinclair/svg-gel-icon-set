@@ -4,7 +4,7 @@ An intermediate repository containing Production-ready SVGs from our Global Expe
 ## How do I get my SVGs into this repository?
 Prerequisites:
 - Adobe Illustrator
-- [SVGO GUI](https://raw.githubusercontent.com/simonsinclair/svg-gel-icon-set/master/support/svgo-gui.zip)
+- SVGO GUI [[Download]](https://raw.githubusercontent.com/simonsinclair/svg-gel-icon-set/master/support/svgo-gui.zip)
 
 ### 1/3: Preparing artwork from Adobe Illustrator
 - Select and Copy `CTRL+C` your icon in its entirety.
@@ -26,5 +26,6 @@ Prerequisites:
 Great! Please [upload your Production-ready SVGs](https://myshare.app.box.com/files/0/f/3158519203/SVG_GEL_Icon_Set) into the appropriate Box folder.
 
 ## Questions
-- Neil B.
-- Simon S.
+- Joseph Wynn (Development)
+- Neil Bramah
+- Simon Sinclair
