@@ -4,7 +4,7 @@ An intermediate repository containing Production-ready SVGs from our Global Expe
 ## How do I get my SVGs into this repository?
 Prerequisites:
 - Adobe Illustrator
-- SVGO GUI [Download](https://raw.githubusercontent.com/simonsinclair/svg-gel-icon-set/master/support/svgo-gui.zip)
+- SVGO GUI [[Download]](https://raw.githubusercontent.com/simonsinclair/svg-gel-icon-set/master/support/svgo-gui.zip)
 
 ### 1/3: Preparing artwork from Adobe Illustrator
 - Select and Copy `CTRL+C` your icon in its entirety.
