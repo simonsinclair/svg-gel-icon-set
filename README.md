@@ -7,7 +7,7 @@ Prerequisites:
 - SVGO GUI [[Download]](https://raw.githubusercontent.com/simonsinclair/svg-gel-icon-set/master/support/svgo-gui.zip)
 
 ### 1/3: Preparing artwork from Adobe Illustrator
-Please ensure your artwork should is **black** (#000) and sits on a **transparent background**.
+Please ensure your artwork is **black** (#000), sits on a **transparent background** and is **converted to outlines**.
 - Select and Copy `CTRL+C` your icon in its entirety.
 - Create a New `CMD+N` Illustrator document using the settings for your artboard shown below:
 - ![](support/illus-new-doc.png)
@@ -24,9 +24,9 @@ Please ensure your artwork should is **black** (#000) and sits on a **transparen
 - Open SVGO GUI and drag the newly-saved file(s) onto the drop-zone. This will optimise the file(s) in-place (replacing them).
 - ![](support/svgo-gui.png)
 
-Great! Please [upload your Production-ready SVGs](https://myshare.app.box.com/files/0/f/3158519203/SVG_GEL_Icon_Set) into the appropriate Box folder.
+All done! Please [upload your Production-ready SVGs](https://myshare.app.box.com/files/0/f/3158519203/SVG_GEL_Icon_Set) into the appropriate Box folder.
 
-## Questions
+## Contact
 - Joseph Wynn (Development)
 - Neil Bramah
 - Simon Sinclair
