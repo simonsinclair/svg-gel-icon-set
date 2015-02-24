@@ -20,7 +20,7 @@ Prerequisites:
 ### 2/3 Saving
 - Save a Copy `ALT+CMD+S` of the artwork and name it by its GEL-prescribed name:
 - ![](support/illus-save-a-copy.png)
-- Change the Save format to SVG using the dropdown:
+- Change the Save format to `SVG (svg)` using the dropdown:
 - ![](support/illus-save-format.png)
 - Set the following SVG options in the panel before clicking OK:
 - ![](support/illus-svg-options.png)
@@ -32,7 +32,7 @@ Prerequisites:
 All done! Please [upload your Production-ready SVGs](https://myshare.app.box.com/files/0/f/3158519203/SVG_GEL_Icon_Set) into the appropriate Box folder.
 
 ## Questions?
-Please contact either:
+Please contact:
 - Joseph Wynn (Technical, Implementation)
 - Neil Bramah (Workflow, Box)
 - Simon Sinclair (Workflow, Technical)
