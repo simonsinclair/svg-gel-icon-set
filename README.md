@@ -14,7 +14,7 @@ Prerequisites:
 - Paste `CTRL+V` the artwork onto the new artboard, and with it still selected...
 - Scale the longest edge to `32px`, being careful not to warp it, so that it fits within the artboard bounds.
 - ![](support/illus-longest-edge-32.png)
-- Ensuring the icon is still selected, center it both vertically and horizontally to the artboard using the tool shown below:
+- Ensuring the icon is still selected, align it to the center of the artboard, both horizontally and vertically, using the Align tool:
 - ![](support/illus-center-x-y.png)
 
 ### 2/3 Saving
@@ -33,6 +33,6 @@ All done! Please [upload your Production-ready SVGs](https://myshare.app.box.com
 
 ## Questions?
 Please contact:
-- Joseph Wynn (Technical, Implementation)
-- Neil Bramah (Workflow, Box)
-- Simon Sinclair (Workflow, Technical)
+- Joseph Wynn *(Technical, Implementation)*
+- Neil Bramah *(Workflow, Box)*
+- Simon Sinclair *(Workflow, Technical)*
