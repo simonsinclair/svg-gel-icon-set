@@ -22,7 +22,7 @@ Prerequisites:
 - ![](support/illus-save-a-copy.png)
 - Change the Save format to `SVG (svg)` using the dropdown:
 - ![](support/illus-save-format.png)
-- In the SVG Options panel that pops-up, click `More Options` (if they aren't showing already) and then copy the following screenshot before clicking OK:
+- In the SVG Options panel that pops-up, click `More Options` (if they aren't showing already) and then set them using the following screenshot as a reference before clicking OK:
 - ![](support/illus-svg-options.png)
 
 ### 3/3: Optimising
