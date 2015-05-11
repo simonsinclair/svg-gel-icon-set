@@ -25,8 +25,9 @@ Prerequisites:
 - In the SVG Options panel that pops-up, click `More Options` (if they aren't showing already) and then set them using the following screenshot as a reference before clicking OK:
 - ![](support/illus-svg-options.png)
 
-~~### 3/3: Optimising~~
+### ~~3/3: Optimising~~
 - ~~Open SVGO GUI [Download] and drag the newly-saved file(s) onto the drop-zone. This will optimise the file(s) in-place (replacing them).~~
+
 *Optimising is now done developer-side.*
 
 All done! Please [upload your Production-ready SVGs](https://myshare.app.box.com/files/0/f/3158519203/SVG_GEL_Icon_Set) into the appropriate Box folder.
